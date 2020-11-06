@@ -1,2 +1,2 @@
-# digitaldiary.piappstudio.github.com
-Digital Diary &amp; Reminder Android Applicaiton github page
+# Digital Diary &amp; Reminder
+Digital Diary &amp; Reminder
