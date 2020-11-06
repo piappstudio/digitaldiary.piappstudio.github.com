@@ -2,20 +2,24 @@
 
 You can download [Digital Diar & Reminder](https://play.google.com/store/apps/details?id=com.bob.offlinediary) android app from google play.
 
-Digital Diary & Reminder - A smart way of storing your memories & reminders with PIN or finger protected features. You are free to use any special languages or smiles. This app is not sharing any of your data, it means your data is fully protected. "YOU OWN THE DATA, WE OWN THE SOFTWARE" - Developer is not aware of your data at any point in time
+Digital Diary & Reminder - A smart way of storing your memories & reminders with PIN or finger protected features. You are free to use any special languages or smiles. This app is not sharing any of your data, it means your data is fully protected.
+
+"YOU OWN THE DATA, WE OWN THE SOFTWARE" - Developer is not aware of your data at any point in time
+
+## Features
 
 The app provides more options to improve your diary writing experience, it allows you to add images and audio notes as part of events
-## Backup 
+### Backup
 App let you export your memories in the form of a beautiful PDF. App also provides you the option to export ALL or Specific intervals of memory
-## Search and Sort Option
+### Search and Sort Option
 The app allows you to search your memory in on touch and also allows you to sort your events with various option
-## PIN or Fingerprint protected
+### PIN or Fingerprint protected
 App protects your data with 4 digit PIN or fingerprint access
-## Encrypted Back-Up -
+### Encrypted Back-Up
 The app allows you to export or import your data with a password-protected file
-## Reminder (Count down)
+### Reminder (Count down)
 Add your important days and see the count down of remaining days
-## Few Google Ads
+### Few Google Ads
 To support our developers with Ads contribution
 
 ---
