@@ -1,6 +1,6 @@
 ## Welcome to Digital Diary & Reminder
 
-You can download [Digital Diar & Reminder](https://play.google.com/store/apps/details?id=com.bob.offlinediary) android app from google play.
+You can download [Digital Diary & Reminder](https://play.google.com/store/apps/details?id=com.bob.offlinediary) android app from google play.
 
 Digital Diary & Reminder - A smart way of storing your memories & reminders with PIN or finger protected features. You are free to use any special languages or smiles. This app is not sharing any of your data, it means your data is fully protected.
 
